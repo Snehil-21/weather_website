@@ -1,5 +1,3 @@
-console.log('Client JS')
-
 const weatherForm = document.querySelector('form')
 const inputLocation = document.querySelector('input')
 
